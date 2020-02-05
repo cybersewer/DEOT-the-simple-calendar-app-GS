@@ -8,13 +8,6 @@ This theme is based on the DEOT theme for GameShell and is to be used on the "Th
 
 https://forum.clockworkpi.com/t/the-simple-calendar-app/3542
 
-**Images:**
-
-ICON:
-
-
-APP:
-
 
 **How To:**
 
